@@ -4,7 +4,7 @@
 
 Hey guys! 
 
-Atualmente tenho 24 anos, residente do Rio de Janeiro e sou um Desenvolvedor Front-End em formação, com foco na criação de interfaces modernas e funcionais. 
+Tenho 24 anos, sou do Rio de Janeiro e estou me especializando como Desenvolvedor Front-End. Meu foco é criar interfaces modernas, responsivas e funcionais, sempre buscando oferecer a melhor experiência. 
 
 ---
 
